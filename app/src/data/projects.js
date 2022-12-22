@@ -9,6 +9,15 @@ export default [
     demo_url: "https://kadflix.vercel.app/",
   },
   {
+    name: "Controle Financeiro",
+    tools: ["Vue.js 3", "Vue CLI", "SASS"],
+    description:
+      "Aplicação de controle de finanças pessoais desenvolvida em Vue.js onde o usuário pode registrar suas receitas e despesas, tendo suas alterações salvas no armazenamento do navegador.",
+    img: "./assets/projects/controle-financeiro.png",
+    repository_url: "https://github.com/kadymosantana/controle-financeiro",
+    demo_url: "https://controle-financeiro-kadymo.vercel.app/",
+  },
+  {
     name: "GitHub Profile Finder",
     tools: ["Vue.js 2", "Vue CLI", "SASS"],
     description:
