@@ -24,6 +24,12 @@ export default [
     background: "#3c3a1da6",
   },
   {
+    name: "TypeScript",
+    description: "Linguagem de programação",
+    img: "./assets/skills/ts.png",
+    background: "#1d293ca6",
+  },
+  {
     name: "Vue.js",
     description: "Framework de JavaScript",
     img: "./assets/skills/vue.png",
