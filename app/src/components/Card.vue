@@ -47,7 +47,7 @@ export default {
       </ul>
     </nav>
     <component :is="activeComponent">
-      <NetworkList />
+      <NetworksList />
       <ProjectsList />
       <SkillsList />
     </component>
