@@ -1,5 +1,5 @@
 <script>
-import projects from "../data/projects.js";
+import projects from "../data/projects.json";
 
 export default {
   setup() {

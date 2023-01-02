@@ -1,5 +1,5 @@
 <script>
-import skills from "../data/skills.js";
+import skills from "../data/skills.json";
 
 export default {
   setup() {

@@ -1,5 +1,6 @@
 <script>
-import networks from "../data/networks.js";
+import networks from "../data/networks.json";
+
 export default {
   setup() {
     return { networks };
