@@ -1,9 +1,3 @@
-<script>
-export default {
-  setup() {},
-};
-</script>
-
 <template>
   <div>
     <img src="../../public/assets/profile.jpeg" alt="Kádymo Santana" />
